@@ -1,0 +1,23 @@
+[
+    {
+        "codigo": 1,
+        "titulo": "Rambo",
+        "duracao": 240,
+        "genero": "terror",
+        "emCartaz": true
+    },
+    {
+        "codigo": 2,
+        "titulo": "Star Wars",
+        "duracao": 220,
+        "genero": "Ficcção Cientifica",
+        "emCartaz": false
+    },
+    {
+        "codigo": 3,
+        "titulo": "Senhor dos Anéis 2",
+        "duracao": 300,
+        "genero": "fantasia",
+        "emCartaz": true
+    }
+]
